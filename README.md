@@ -5,7 +5,7 @@
 pip install requirements.txt
 ```
 ## Execute
-Firstly the USERNAME and PASSWORD to config/base.py file must be entered.
+Firstly the USERNAME and PASSWORD to code/config/base.py file must be entered.
 ```
 cd code
 ```
